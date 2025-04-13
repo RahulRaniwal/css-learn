@@ -1,0 +1,32 @@
+body{
+  margin: 0px;
+}
+
+#box1{
+  border:  1px solid;
+  width: 300px;
+  height: 300px;
+  background: greenyellow;
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
+
+#box2{
+  border:  1px solid;
+  width: 100px;
+  height: 100px;
+  font-size: 20px;
+  background: blueviolet;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+/* margin are space around the element */
+
+/* float */
+
+/* positioning an element to the left or right side of a container
+  Popular for wrapping elements around images
+*/

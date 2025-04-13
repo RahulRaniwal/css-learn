@@ -1,0 +1,30 @@
+body{
+  background-image: url("bgPhoto.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+
+}
+
+h1{
+  color: white;
+  font-family: "Press Start 2P", "consolas" , sans-serif;
+  background: linear-gradient(to right 135deg, #0f0c29, #302b63, #24243e);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+p{
+  background: linear-gradient(to left 135deg, #0f0c29, #302b63, #24243e);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: white;
+  font-family: "consolas" , sans-serif;
+  font-size: 18px;
+  border-style:  outset;
+  border-width: 3px;
+  border-color: greenyellow;
+  border-radius: 5px;
+  padding: 10px;
+}
